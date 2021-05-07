@@ -1,0 +1,58 @@
+h1 {
+    color: rgb(1, 12, 112);
+    
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color : orange;
+
+}
+.subheading{
+display: flex;
+justify-content:  center;
+background-color : whitesmoke;
+}
+body{
+    background-color : whitesmoke;
+}
+.grid{
+    display: flex;
+    justify-content: space-evenly;
+   flex-wrap : wrap;
+  
+   
+    }
+    .icons{
+      margin-top: 10%;
+      
+    }
+
+   
+
+    .footer{
+        display: flex;
+        justify-content: flex-end;
+        }
+    .icons{
+        border: solid;
+        border-radius: 20%;
+        border-color: green;
+
+    }
+    img{
+     
+     border-radius : 20%;
+     border-color: green;
+    }
+   p{
+      text-align: center;
+    
+    }
+    body{
+        background-color:'#808080';
+    }
+   
